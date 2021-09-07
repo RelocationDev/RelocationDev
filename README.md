@@ -8,6 +8,5 @@ I currently work at the following places:
 
 - Proton Development | Owner | https://discord.gg/EPmxTZEEF6
 - Narcos.gg | Developer | https://discord.gg/XPeT3B7QKV
-- StellarDev | Developer | https://discord.gg/VreqKyRjcK
 
 Thanks for taking the time out of your day to view my github profile!
