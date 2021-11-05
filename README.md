@@ -6,7 +6,7 @@ I am 15 years old, and have done tons of commissions & public projects.
 # Where do you work?
 I currently work at the following places:
 
-- Aspect Development | Executive | https://discord.gg/aspectdev
+- Aspect Development | Executive | https://discord.gg/9PJyk4qtmk
 - Proton Development | Owner | https://discord.gg/EPmxTZEEF6
 
 Thanks for taking the time out of your day to view my github profile!
