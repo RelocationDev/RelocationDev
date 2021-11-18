@@ -1,7 +1,7 @@
 # About me
 
 Hey, I'm Relocation a developer fluent in both Java, and Lua. I also know a fair bit of C#.
-I am 15 years old, and have done tons of commissions & public projects.
+I am 16 years old, and have done tons of commissions & public projects.
 
 # Where do you work?
 I currently work at the following places:
