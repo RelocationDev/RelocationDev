@@ -5,7 +5,7 @@
 
 - 💬 I code in **Java, Lua, and C#**. Feel free to ask me something.
 
-- 📫 Reach me @ discord: **https://discord.abyssdev.net**
+- 📫 Reach me on Discord: **https://discord.gg/abyssdev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
