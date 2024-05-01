@@ -1,13 +1,12 @@
 <h1 align="center">Hey, I'm Relocation...</h1>
-<h3 align="center">I'm 18 years old, and I own Abyss Development, and Abyss Hosting</h3>
+<h3 align="center">I'm 18 years old, and I own Abyss Development LLC</h3>
 
 - 🔭 Website: https://abyssdev.org
 
 - 💬 I code in **Java, Lua, and C#**. Feel free to ask me something.
 
 - 📫 Reach me on Discord:
--  **https://discord.gg/abyssdev**
--  **https://discord.gg/mchost**
+-  **https://discord.gg/mcplugins**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
